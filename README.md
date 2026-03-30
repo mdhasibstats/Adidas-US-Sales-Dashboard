@@ -1,60 +1,21 @@
-# 📊 Adidas US Sales Dashboard (2020–2021)
+## 📊 Adidas US Sales Dashboard (2020–2021)
 
-> This project analyzes Adidas US Sales data (2020–2021) using Power BI.
-> The dashboard provides a comprehensive view of sales performance across regions, states, products, and retailers.
-> Key KPIs and visuals help uncover trends and insights for better business decisions.
+Built an interactive Power BI dashboard to analyze Adidas US sales performance across regions, products, and retailers. The project focuses on identifying key revenue drivers and supporting data-driven business decisions.
 
 ---
 
-## 📌 Objectives
-
-- Track and monitor Adidas sales performance in the US.
-- Identify top-performing regions, states, products, and retailers.
-- Analyze seasonality and monthly sales trends.
-- Provide interactive slicers for filtering by region and invoice date.
+## 🎯 Business Objective
+Analyze Adidas US sales data to identify top-performing regions, products, and retailers, and uncover trends that can support sales strategy and business growth.
 
 ---
 
-## 📌 Key KPIs
+## 📊 Key KPIs
+- Total Sales  
+- Operating Profit  
+- Units Sold  
+- Average Price per Unit  
+- Operating Margin  
 
-The dashboard highlights five major KPIs:
-
-- 💵 Total Sales
-- 📈 Operating Profit
-- 📦 Total Units Sold
-- 🏷️ Average Price per Unit
-- 📊 Average Operating Margin
-
----
-
-## 📊 Dashboard Visuals
-
-The following visuals are included in the report:
-
-**_Total Sales by Month (Area Graph)_**
-
-> Peaks observed in July–August, indicating strong seasonal demand.
-
-**_Total Sales by State (Shape Map)_**
-
-> New York records the highest sales among all states.
-
-**_Total Sales by Region (Donut Chart)_**
-
-> The West Region dominates overall sales performance.
-
-**_Total Sales by Product (Column Chart)_**
-
-> Men’s Street Footwear leads as the top-selling product category.
-
-**_Total Sales by Retailer (Bar Chart)_**
-
-> West Gear emerges as the highest contributing retailer.
-
-Interactive Slicers:
-
-- Region filter
-- Invoice Date filter (from 2020-01-01 to 2021-12-31)
 
 ---
 
@@ -82,8 +43,6 @@ Dashboard-Adidas-Sales-Analysis/
 
 Here is a preview of the Adidas US Sales Dashboard:
 
-![Dashboard Preview](./dashboard/exports/screenshots/dashboard_preview1.png)
-
 ![Dashboard Preview](./dashboard/exports/screenshots/dashboard_preview2.png)
 
 ---
@@ -94,19 +53,22 @@ The dataset comes from **Adidas US Sales (2020–2021)**, available [here](https
 
 ---
 
-## Tools & Technologies
+## 📌 Key Insights
 
-- Power BI Desktop (Data visualization & dashboard building)
-- Excel/Google Sheets (Data source)
-- GitHub (Version control & portfolio hosting)
+- The West region generates the highest overall sales, indicating strong market performance in that area  
+- A small number of retailers (e.g., West Gear) contribute significantly to total revenue  
+- Sales peak during July–August, highlighting strong seasonal demand  
+- Men’s Street Footwear is the top-performing product category, driving a large portion of total sales  
+
+---
+
+## 💡 Business Recommendations
+
+- Focus marketing and inventory efforts on high-performing regions like the West  
+- Strengthen partnerships with top retailers to maximize revenue  
+- Leverage seasonal demand by planning promotions during peak months  
+- Expand top-selling product categories to increase overall sales performance
 
 ---
 
-## 🙋‍♂️ Author
 
-**Md. Hasib** <br>
-_BSc Statistics Student, University of Chittagong_ <br>
-Email: mdhasib.stats@gmail.com <br>
-GitHub: [@mdhasibstats](https://github.com/mdhasibstats)
-
----
